@@ -1,2 +1,6 @@
-# ECG-Signal-Processing-Toolkit
-A complete end-to-end ECG (Electrocardiogram) signal processing toolkit built using MATLAB, designed to perform filtering, denoising, FFT-based frequency analysis, and signal quality evaluation. This project demonstrates practical biomedical signal processing skills using real ECG recordings from MIT-BIH datasets or custom .mat files.
+#ECG SIGNAL PROCESSING TOOLKIT
+## How to run
+1. Download repo
+2. Open `ECG_Filter_GUI_old.m`
+3. Run the script
+4. View the filtered signal + SNR + HR + MSE  
